@@ -12,3 +12,4 @@ Ce script a pour but d'optimiser les performances ainsi que les options de sécu
 2. Pour désactiver un paramètre, il faut mettre un `#` (en commentaire) devant ce dernier. A l'inverse, pour activer un paramètre on retire le `#`.
 3. Lancer le script en double cliquant sur le fichier `Default.cmd`.
 
+##### Développé par Pierre Chaussard.
